@@ -1,0 +1,3 @@
+/home/nudian/Documents/Github/First_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nudian/Documents/Github/First_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nudian/Documents/Github/First_Project/cmake-build-debug/CMakeFiles/First_Project.dir
